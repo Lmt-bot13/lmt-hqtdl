@@ -46,3 +46,5 @@ Lớp: K59KMT.K01
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4ac71b02-5009-4095-bbc6-9056bdf9493c" />
 
 17. Upload file dulieu.sql lên github repo của em (repository mà em đang edit file README.md)
+    <img width="1919" height="607" alt="image" src="https://github.com/user-attachments/assets/438681a8-ba3d-4293-9393-42bd67be63e9" />
+
